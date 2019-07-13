@@ -2,7 +2,7 @@
 
 ## Installation
 
-* `git clone <repository-url>`
+* `git clone https://github.com/maanshamoon/ember-component-lifecycle-hooks.git`
 * `cd ember-component-lifecycle-hooks`
 * `npm install`
 

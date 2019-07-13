@@ -1,13 +1,19 @@
 {
   "name": "ember-component-lifecycle-hooks",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "A helper addon that provide controllers access to the component's lifecycle hooks.",
   "keywords": [
     "ember-addon"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maanshamoon/ember-component-lifecycle-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maanshamoon/ember-component-lifecycle-hooks/issues"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "Maan Shamoon",
   "directories": {
     "doc": "doc",
     "test": "tests"
