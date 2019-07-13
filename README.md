@@ -30,17 +30,24 @@ actiions: {
 Available Hooks
 ------------------------------------------------------------------------------
 
-`init-hook`
-`will-render-hook`
-`did-insert-element-hook`
-`did-render-hook`
-`will-update-hook`
-`did-update-hook`
-`will-destroy-element-hook`
-`will-clear-render-hook`
-`did-destroy-element-hook`
+```
+init-hook
+will-render-hook
+did-insert-element-hook
+did-render-hook
+will-update-hook
+did-update-hook
+will-destroy-element-hook
+will-clear-render-hook
+did-destroy-element-hook
+```
 
 For more information about Ember component lifecycle hooks, please visit the [Ember guides](https://guides.emberjs.com/release/components/the-component-lifecycle/).
+
+Changelog
+------------------------------------------------------------------------------
+
+See the [Changelog](CHANGELOG.md) for details.
 
 Compatibility
 ------------------------------------------------------------------------------
