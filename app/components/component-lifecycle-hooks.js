@@ -1,0 +1,1 @@
+export { default } from 'ember-component-lifecycle-hooks/components/component-lifecycle-hooks';
