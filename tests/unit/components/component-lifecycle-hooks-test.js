@@ -2,6 +2,7 @@ import { module, test } from 'qunit';
 import { setupTest } from 'ember-qunit';
 
 module('Unit | Component | component-lifecycle-hooks-test', function(hooks) {
+
     setupTest(hooks);
 
     test('Test that component lifecycle hooks are defined', function(assert) {
@@ -9,7 +10,6 @@ module('Unit | Component | component-lifecycle-hooks-test', function(hooks) {
         assert.expect(9);
 
         const component = this.owner.factoryFor('component:component-lifecycle-hooks').create();
-
         const supportedComponentLifecycleHooks = [
             'init-hook',
             'will-render-hook',
