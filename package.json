@@ -1,6 +1,6 @@
 {
   "name": "ember-component-lifecycle-hooks",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A helper addon that provide controllers access to the component's lifecycle hooks.",
   "keywords": [
     "ember-addon"
